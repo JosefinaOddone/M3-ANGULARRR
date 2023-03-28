@@ -1,0 +1,54 @@
+<div class="titulo1">
+    EDUCACIÓN
+</div>
+  <br>
+  <br>
+<div class="educacion">
+    <div class="row align-items-start">
+      <div class="col-1">
+        
+      </div>
+
+      <div class="col-5">
+        <div class="td">
+          <div *ngFor ="let edu of educacion1"> {{edu.estudio}} </div>
+          <i> <div *ngFor ="let edu of educacion1"> {{edu.institucion}} </div></i>
+          <small> <div *ngFor ="let edu of educacion1"> {{edu.fecha}} </div></small>
+        </div>
+
+        <div class="austral">
+           <br>
+           <div *ngFor ="let edu of educacion3"> {{edu.estudio}} </div>
+           <i><div *ngFor ="let edu of educacion3"> {{edu.institucion}} </div></i>
+           <small><div *ngFor ="let edu of educacion3"> {{edu.fecha}} </div></small>
+        </div>
+
+        <div class="derecho">
+          <div *ngFor ="let edu of educacion5"> {{edu.estudio}} </div>
+           <i><div *ngFor ="let edu of educacion5"> {{edu.institucion}} </div></i>
+           <small><div *ngFor ="let edu of educacion5"> {{edu.fecha}} </div></small>
+        </div>
+    </div>
+    <!--linea centro de educacion-->
+        <div class="linecenter"></div>
+   
+    <div class="col-5">
+        <div class="programacion">
+          <div *ngFor ="let edu of educacion2"> {{edu.estudio}} </div>
+          <i><div *ngFor ="let edu of educacion2"> {{edu.institucion}} </div></i>
+          <small><div *ngFor ="let edu of educacion2"> {{edu.fecha}} </div></small>
+        </div>
+
+        <div class="mediacion">
+          <br>
+          <div *ngFor ="let edu of educacion4"> {{edu.estudio}} </div>
+          <i><div *ngFor ="let edu of educacion4"> {{edu.institucion}} </div></i>
+          <small><div *ngFor ="let edu of educacion4"> {{edu.fecha}} </div></small>
+        </div>
+    </div>
+
+    <div class="col-1"></div>
+    
+    </div>
+</div>
+

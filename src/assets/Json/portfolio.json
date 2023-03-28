@@ -1,0 +1,105 @@
+{
+"nombre": "JOSEFINA",
+"apellido": "ODDONE",
+"perfil":"He estudiado derecho, enfoco mi carrera en el área tecnológica y digital, y creo fielmente en la innovación del sector legal. Me gusta ayudar, guiar y liderar. Soy una persona que se adapta muy bien y rápidamente a los cambios y, sobre todo, no me dan miedo. He tenido la oportunidad de desarrollar habilidades en el área de la atención al cliente. Trabajo de forma activa y responsable. Me considero una persona disciplinada y acostumbrada a manejar grandes volúmenes de trabajo, sabiendo priorizar las tareas a realizar. Mi objetivo es crecer tanto profesional como personalmente",
+
+"educacion1": [
+    {
+        "estudio": "MASTER EN TRANFORMACIÓN DIGITAL",
+        "institucion": "Universidad de Salamanca",
+        "fecha": "2022-Actualidad"
+    }],
+
+"educacion2": [
+    {
+        "estudio": "WEB FULL STACK DEVELOPER",
+        "institucion": "Argentina Programa.",
+        "fecha": "2022-Actualidad"
+    }],
+
+"educacion3": [
+    {
+        "id": 3,
+        "estudio": "DIPLOMA INTERNACIONAL EN CIBERCRIMEN Y TECNOLS. APLICADAS A LA INVESTIGAC.",
+        "institucion": "Universidad Austral.",
+        "fecha": "2021-2022"
+    }],
+"educacion4": [
+    {
+        "estudio": "MEDIACIÓN",
+        "institucion": "Fundación Americana Interdisciplinaria.",
+        "fecha": "2020-2021"
+    }],
+"educacion5":[
+    {
+        "estudio": "ABOGACÍA",
+        "institucion": "Universidad Nacional del Nordeste.",
+        "fecha": "2015-2020"
+    }
+],
+
+
+"experiencia1": [
+    {
+        "puesto": "JUNIOR LEGAL ENGINEER",
+        "empresa": "WOW Legal Experience.",
+        "fecha": "Actualidad (onlline- part-time)",
+        "tareas":[
+                "Consultoría y lecciones de diseño y tecnología legal",
+                "Creación de pdf interactivos, revista digital",
+                "Desarrollar y mejorar la página web",
+                "Creación de contenidos para marketing, telemarketing y redes",
+                "Contacto con clientes en diferentes idiomas",
+                "Representación en eventos",
+                "Co-creación del portfolio",
+                "Creacion y diseño de formularios UX",
+                "Redaccion de textos y copyright"]
+    }],
+"experiencia2": [
+    {
+        "puesto": "PARALEGAL",
+        "empresa": "Leconte y Asociados.",
+        "fecha": "2017 y 2020"
+    }],
+"experiencia3": [
+    {
+        "puesto": "ADMINISTRATIVA",
+        "empresa": "Dulces Ñapi-ú SRL (ARG).",
+        "fecha": "Verano 2017 y 2018"
+    }],
+"experiencia4": [
+    {
+        "puesto": "COORDINADORA DE VOLUNTARIADO",
+        "empresa": "Buen Samaritano SJ.",
+        "fecha": "2016-2018"
+    }],
+
+"habilidades": [
+    {
+        "profesionales": "Adobe Creative Cloud, Google Workspace, HTML, CSS, Angular",
+        "personales": "Resolución de problemas, Trabajo en equipo, Responsabilidad, Organización, Educación emocional"
+    }
+],
+
+"idiomas": [
+    {
+        "id": 1,
+        "idioma": "Español"
+    },
+    {
+        "id": 2,
+        "idioma": "Ingles"
+    },
+    {
+        "id": 3,
+        "idioma": "Italiano"
+    },
+    {
+        "id": 4,
+        "idioma": "Frances"
+    }
+]
+
+}
+
+

@@ -1,0 +1,29 @@
+i.fa-solid.fa-pen.fa-xs, i.fa-solid.fa-trash.fa-xs, i.fa-solid.fa-plus.fa-xs{
+    color:aliceblue;
+   
+}
+
+.list-group-item {
+    --bs-list-group-bg:transparent;
+    border:transparent;    
+    
+}
+
+button{
+    background-color: rgb(171, 79, 74);
+    border-bottom: none;
+    border-color: transparent;
+    padding:90%;
+    padding-top: 40%;
+    padding-bottom: 40%;
+    margin-top: 0%;
+    border-top: 0%;
+
+    
+}
+button:hover{
+    background-color: rgb(72, 76, 104);
+    border-color:  aliceblue;
+    
+}
+

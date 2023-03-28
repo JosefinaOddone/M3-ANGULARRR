@@ -1,0 +1,66 @@
+.titulo2 {
+    color:aliceblue;
+    margin-top: 12%;
+    text-align: right;
+    width:650px;
+    padding:20px;
+    background-color:rgb(72, 76, 104) !important;
+    font-family: "futura-pt", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing:3px;
+    font-size: xx-large;
+}
+
+.experiencia {
+    margin-top: 5%;
+    color:aliceblue;
+    margin-left: 3%;
+    font-family: "futura-pt", sans-serif;
+    font-style: normal;
+    letter-spacing:3px;
+    font-weight: 200;
+    font-size: large;
+    letter-spacing:1px;
+}
+
+ol {
+    list-style:none;
+    text-decoration: none;
+}
+
+.tareas li a{
+    text-decoration:none;
+    color: aliceblue;
+}
+.tareas li {
+    text-decoration:none;
+    background-color: rgb(72, 76, 104);
+    color: aliceblue;
+    padding: 2px;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-left:-14%;
+    display: block;
+    
+}
+.tareas li:hover {
+background-color:#505c70;
+}
+
+.tareas>li{
+    float: left;
+}
+
+.tareas li ol {
+    display:none;
+    position: absolute;
+    min-width: 140px;
+
+}
+.tareas li:hover >ol {
+display: block;
+}
+
+
+
